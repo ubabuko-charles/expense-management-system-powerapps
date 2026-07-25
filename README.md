@@ -37,8 +37,10 @@ It enables employees to submit expense requests while managers review and approv
 
 ## Documentation
 
-A detailed project document is included in this repository as a PDF.
+For a detailed walkthrough of the application, including the system workflow, SharePoint list structure, Power Automate flow, and additional screenshots, view the project documentation below.
+
+📄 [Expense Tracker Documentation](<Expense Tracker.pdf>)
 
 ## Author
 
-Charles Ubabuko
+Ubabuko Charles Ikechukwu
