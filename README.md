@@ -22,17 +22,18 @@ It enables employees to submit expense requests while managers review and approv
 
 ## Screenshots
 
+
 ### Dashboard
-![Dashboard](Dashboard-Expense-Tracker.png)
+![Dashboard](<Dashboard Expense Tracker.png>)
 
 ### Expense Form
-![Expense Form](Data-Entry-Expense-Tracker.png)
+![Expense Form](<Data Entry Expense Tracker.png>)
 
 ### Expense Gallery
-![Expense Gallery](Expense-Gallery-and-Submission.png)
+![Expense Gallery](<Expense Gallery and Submission.png>)
 
 ### Email Notification
-![Email Notification](Notification-of-Expense.png)
+![Email Notification](<Notification of Expense.png>)
 
 ## Documentation
 
