@@ -22,7 +22,9 @@ It allows employees to submit expense requests while managers can approve or rej
 
 ## Documentation
 
-The complete project documentation, including screenshots and workflow diagrams, is available in the PDF uploaded to this repository.
+The complete project documentation, including screenshots, workflow diagrams, SharePoint list, and Power Automate flow, is available here:
+
+[📄 View the Expense Management System Documentation](./Expense%20Management%20System.pdf)
 
 ## Author
 
